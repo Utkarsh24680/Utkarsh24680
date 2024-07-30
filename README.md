@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Utkarsh24680
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @Utkarsh24680
 
-<!---
-Utkarsh24680/Utkarsh24680 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 📊 Business Analyst passionate about data-driven decision making.
+- 🧠 Currently learning advanced data visualization and predictive analytics.
+- 🤝 Open to collaborating on business strategy and analytics projects.
+
+## Reach Me
+- 📧 utkarsh@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/utkarsh24680)
+- 🐦 [Twitter](https://twitter.com/Utkarsh24680)
+
+## Fun Fact
+- 🚀 I love exploring innovative business solutions and reading strategy books.
